@@ -1,2 +1,0 @@
-controller=random horizon=1 threshold=0.1
-step[s], count, density[car/km], speed[m/s], hamiltonian, xterm, sigmaterm, waiting rate, co2[kg/s]

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edges xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/edges_file.xsd">
+    <edge from="3way_1" id="1_3way_1to3way_2" to="3way_2" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_2" id="1_3way_2to3way_1" to="3way_1" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_1" id="2_3way_1to3way_6" to="3way_6" spreadType="roadCenter" numLanes="1" priority="1" shape="100.00,0.00 0.00,0.00 0.00,-100.00"/>
+    <edge from="3way_6" id="2_3way_6to3way_1" to="3way_1" spreadType="roadCenter" numLanes="1" priority="1" shape="0.00,-100.00 0.00,0.00 100.00,0.00"/>
+    <edge from="3way_1" id="3_3way_1to4way_7" to="4way_7" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_7" id="3_4way_7to3way_1" to="3way_1" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_11" id="4_3way_11to3way_17" to="3way_17" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_17" id="4_3way_17to3way_11" to="3way_11" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_4" id="5_3way_4to3way_11" to="3way_11" spreadType="roadCenter" numLanes="1" priority="1" shape="400.00,0.00 500.00,0.00 500.00,-100.00"/>
+    <edge from="3way_11" id="5_3way_11to3way_4" to="3way_4" spreadType="roadCenter" numLanes="1" priority="1" shape="500.00,-100.00 500.00,0.00 400.00,0.00"/>
+    <edge from="3way_11" id="6_3way_11to4way_10" to="4way_10" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_10" id="6_4way_10to3way_11" to="3way_11" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_12" id="7_3way_12to3way_18" to="3way_18" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_18" id="7_3way_18to3way_12" to="3way_12" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_12" id="8_3way_12to3way_6" to="3way_6" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_6" id="8_3way_6to3way_12" to="3way_12" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_12" id="9_3way_12to4way_13" to="4way_13" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_13" id="9_4way_13to3way_12" to="3way_12" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_17" id="10_3way_17to3way_23" to="3way_23" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_23" id="10_3way_23to3way_17" to="3way_17" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_17" id="11_3way_17to4way_16" to="4way_16" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_16" id="11_4way_16to3way_17" to="3way_17" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_18" id="12_3way_18to3way_24" to="3way_24" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_24" id="12_3way_24to3way_18" to="3way_18" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_18" id="13_3way_18to4way_19" to="4way_19" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_19" id="13_4way_19to3way_18" to="3way_18" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_2" id="14_3way_2to3way_3" to="3way_3" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_3" id="14_3way_3to3way_2" to="3way_2" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_2" id="15_3way_2to4way_8" to="4way_8" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_8" id="15_4way_8to3way_2" to="3way_2" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_23" id="16_3way_23to3way_29" to="3way_29" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_29" id="16_3way_29to3way_23" to="3way_23" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_23" id="17_3way_23to4way_22" to="4way_22" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_22" id="17_4way_22to3way_23" to="3way_23" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_31" id="18_3way_31to3way_24" to="3way_24" spreadType="roadCenter" numLanes="1" priority="1" shape="100.00,-500.00 0.00,-500.00 0.00,-400.00"/>
+    <edge from="3way_24" id="18_3way_24to3way_31" to="3way_31" spreadType="roadCenter" numLanes="1" priority="1" shape="0.00,-400.00 0.00,-500.00 100.00,-500.00"/>
+    <edge from="3way_24" id="19_3way_24to4way_25" to="4way_25" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_25" id="19_4way_25to3way_24" to="3way_24" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_29" id="20_3way_29to3way_34" to="3way_34" spreadType="roadCenter" numLanes="1" priority="1" shape="500.00,-400.00 500.00,-500.00 400.00,-500.00"/>
+    <edge from="3way_34" id="20_3way_34to3way_29" to="3way_29" spreadType="roadCenter" numLanes="1" priority="1" shape="400.00,-500.00 500.00,-500.00 500.00,-400.00"/>
+    <edge from="3way_29" id="21_3way_29to4way_28" to="4way_28" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_28" id="21_4way_28to3way_29" to="3way_29" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_3" id="22_3way_3to3way_4" to="3way_4" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_4" id="22_3way_4to3way_3" to="3way_3" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_3" id="23_3way_3to4way_9" to="4way_9" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_9" id="23_4way_9to3way_3" to="3way_3" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_31" id="24_3way_31to3way_32" to="3way_32" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_32" id="24_3way_32to3way_31" to="3way_31" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_31" id="25_3way_31to4way_25" to="4way_25" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_25" id="25_4way_25to3way_31" to="3way_31" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_32" id="26_3way_32to3way_33" to="3way_33" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_33" id="26_3way_33to3way_32" to="3way_32" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_32" id="27_3way_32to4way_26" to="4way_26" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_26" id="27_4way_26to3way_32" to="3way_32" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_33" id="28_3way_33to3way_34" to="3way_34" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_34" id="28_3way_34to3way_33" to="3way_33" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="3way_33" id="29_3way_33to4way_27" to="4way_27" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_27" id="29_4way_27to3way_33" to="3way_33" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_34" id="30_3way_34to4way_28" to="4way_28" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_28" id="30_4way_28to3way_34" to="3way_34" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_4" id="31_3way_4to4way_10" to="4way_10" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_10" id="31_4way_10to3way_4" to="3way_4" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="3way_6" id="32_3way_6to4way_7" to="4way_7" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_7" id="32_4way_7to3way_6" to="3way_6" spreadType="roadCenter" numLanes="1" priority="0"/>
+    <edge from="4way_10" id="33_4way_10to4way_16" to="4way_16" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_16" id="33_4way_16to4way_10" to="4way_10" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_10" id="34_4way_10to4way_9" to="4way_9" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_9" id="34_4way_9to4way_10" to="4way_10" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_13" id="35_4way_13to4way_14" to="4way_14" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_14" id="35_4way_14to4way_13" to="4way_13" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_13" id="36_4way_13to4way_19" to="4way_19" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_19" id="36_4way_19to4way_13" to="4way_13" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_13" id="37_4way_13to4way_7" to="4way_7" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_7" id="37_4way_7to4way_13" to="4way_13" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_14" id="38_4way_14to4way_15" to="4way_15" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_15" id="38_4way_15to4way_14" to="4way_14" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_14" id="39_4way_14to4way_20" to="4way_20" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_20" id="39_4way_20to4way_14" to="4way_14" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_14" id="40_4way_14to4way_8" to="4way_8" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_8" id="40_4way_8to4way_14" to="4way_14" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_15" id="41_4way_15to4way_16" to="4way_16" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_16" id="41_4way_16to4way_15" to="4way_15" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_15" id="42_4way_15to4way_21" to="4way_21" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_21" id="42_4way_21to4way_15" to="4way_15" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_15" id="43_4way_15to4way_9" to="4way_9" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_9" id="43_4way_9to4way_15" to="4way_15" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_16" id="44_4way_16to4way_22" to="4way_22" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_22" id="44_4way_22to4way_16" to="4way_16" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_19" id="45_4way_19to4way_20" to="4way_20" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_20" id="45_4way_20to4way_19" to="4way_19" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_19" id="46_4way_19to4way_25" to="4way_25" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_25" id="46_4way_25to4way_19" to="4way_19" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_20" id="47_4way_20to4way_21" to="4way_21" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_21" id="47_4way_21to4way_20" to="4way_20" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_20" id="48_4way_20to4way_26" to="4way_26" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_26" id="48_4way_26to4way_20" to="4way_20" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_21" id="49_4way_21to4way_22" to="4way_22" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_22" id="49_4way_22to4way_21" to="4way_21" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_21" id="50_4way_21to4way_27" to="4way_27" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_27" id="50_4way_27to4way_21" to="4way_21" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_22" id="51_4way_22to4way_28" to="4way_28" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_28" id="51_4way_28to4way_22" to="4way_22" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_25" id="52_4way_25to4way_26" to="4way_26" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_26" id="52_4way_26to4way_25" to="4way_25" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_26" id="53_4way_26to4way_27" to="4way_27" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_27" id="53_4way_27to4way_26" to="4way_26" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_27" id="54_4way_27to4way_28" to="4way_28" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_28" id="54_4way_28to4way_27" to="4way_27" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_7" id="55_4way_7to4way_8" to="4way_8" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_8" id="55_4way_8to4way_7" to="4way_7" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_8" id="56_4way_8to4way_9" to="4way_9" spreadType="roadCenter" numLanes="1" priority="1"/>
+    <edge from="4way_9" id="56_4way_9to4way_8" to="4way_8" spreadType="roadCenter" numLanes="1" priority="1"/>
+</edges>

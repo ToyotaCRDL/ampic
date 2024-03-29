@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+    <node id="3way_1" x="100.00" y="0.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_10" x="0.00" y="-200.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_14" x="400.00" y="-200.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_15" x="0.00" y="-300.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_19" x="400.00" y="-300.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_2" x="200.00" y="0.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_21" x="100.00" y="-400.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_22" x="200.00" y="-400.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_23" x="300.00" y="-400.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_3" x="300.00" y="0.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_5" x="0.00" y="-100.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="3way_9" x="400.00" y="-100.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="4way_11" x="100.00" y="-200.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="4way_12" x="200.00" y="-200.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="4way_13" x="300.00" y="-200.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="4way_16" x="100.00" y="-300.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="4way_17" x="200.00" y="-300.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="4way_18" x="300.00" y="-300.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="4way_6" x="100.00" y="-100.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="4way_7" x="200.00" y="-100.00" type="traffic_light" tlLayout="opposites"/>
+    <node id="4way_8" x="300.00" y="-100.00" type="traffic_light" tlLayout="opposites"/>
+</nodes>
