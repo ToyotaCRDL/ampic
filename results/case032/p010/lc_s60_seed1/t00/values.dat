@@ -1,4 +1,0 @@
-controller=local horizon=1 threshold=0.0
-step[s], count, density[car/km], speed[m/s], hamiltonian, xterm, sigmaterm, waiting rate, co2[kg/s]
-0, 1, 2.97253e-03, 1.01150e+01, 0.00000e+00, 0.00000e+00, -3.96000e+02, 1.00000e+00, 2.62472e-03
-1, 11, 3.26978e-02, 1.00960e+01, 1.27731e-01, 1.27731e-01, -3.96000e+02, 9.09091e-01, 2.96799e-02

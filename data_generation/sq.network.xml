@@ -1,0 +1,99 @@
+<network>
+    <map scale="200">
+        <row data="xxxxx"/>
+        <row data="xxxxx"/>
+        <row data="xxxxx"/>
+        <row data="xxxxx"/>
+        <row data="xxxxx"/>
+    </map>
+    <nodes>
+        <node id="A0"/>
+        <node id="A1"/>
+        <node id="A2"/>
+        <node id="A3"/>
+        <node id="A4"/>
+        <node id="B0"/>
+        <node id="B1"/>
+        <node id="B2"/>
+        <node id="B3"/>
+        <node id="B4"/>
+        <node id="C0"/>
+        <node id="C1"/>
+        <node id="C2"/>
+        <node id="C3"/>
+        <node id="C4"/>
+        <node id="D0"/>
+        <node id="D1"/>
+        <node id="D2"/>
+        <node id="D3"/>
+        <node id="D4"/>
+        <node id="E0"/>
+        <node id="E1"/>
+        <node id="E2"/>
+        <node id="E3"/>
+        <node id="E4"/>
+    </nodes>
+    <lines>
+        <line id="lineA">
+            <node id="A0"/>
+            <node id="A1"/>
+            <node id="A2"/>
+            <node id="A3"/>
+            <node id="A4"/>
+            <node id="B4"/>
+            <node id="C4"/>
+            <node id="D4"/>
+            <node id="E4"/>
+            <node id="E3"/>
+            <node id="E2"/>
+            <node id="E1"/>
+            <node id="E0"/>
+            <node id="D0"/>
+            <node id="C0"/>
+            <node id="B0"/>
+            <node id="A0"/>
+        </line>
+        <line id="line1">
+            <node id="A1"/>
+            <node id="B1"/>
+            <node id="C1"/>
+            <node id="D1"/>
+            <node id="E1"/>
+        </line>
+        <line id="line2">
+            <node id="A2"/>
+            <node id="B2"/>
+            <node id="C2"/>
+            <node id="D2"/>
+            <node id="E2"/>
+        </line>
+        <line id="line3">
+            <node id="A3"/>
+            <node id="B3"/>
+            <node id="C3"/>
+            <node id="D3"/>
+            <node id="E3"/>
+        </line>
+        <line id="lineB">
+            <node id="B0"/>
+            <node id="B1"/>
+            <node id="B2"/>
+            <node id="B3"/>
+            <node id="B4"/>
+        </line>
+        <line id="lineC">
+            <node id="C0"/>
+            <node id="C1"/>
+            <node id="C2"/>
+            <node id="C3"/>
+            <node id="C4"/>
+        </line>
+        <line id="lineD">
+            <node id="D0"/>
+            <node id="D1"/>
+            <node id="D2"/>
+            <node id="D3"/>
+            <node id="D4"/>
+        </line>
+    </lines>
+</network>
