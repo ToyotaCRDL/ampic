@@ -1,7 +1,15 @@
 # AMPIC: Adaptive Model Predictive Ising Controller
 
+This repository implements AMPIC, a method for controlling traffic signals by solving Ising problems, on the traffic simulator SUMO (Simulation of Urban MObility).
 
 ## Usage
+
+Run `main.py.`
+```
+python main.py
+```
+
+### Option
 
 | command                 | default                | description                                                                                                                            |
 | ----------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
