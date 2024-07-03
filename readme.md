@@ -1,6 +1,8 @@
 # AMPIC: Adaptive Model Predictive Ising Controller
 
 
+## Usage
+
 | command                 | default                | description                                                                                                                            |
 | ----------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | `--nogui`               | False                  | run the commandline version of sumo                                                                                                    |
@@ -21,3 +23,28 @@
 | `--weight_mode`, `-q`   | fixed                  | state weight in hamiltonian. (fixed / linear / quad)                                                                                   |
 | `--freq`,               | 0.5                    | switching frequency in rondom & pattern controller                                                                                     |
 | `--seed`                | 1395                   | random seed                                                                                                                            |
+
+
+## Citation
+
+If you find our paper or this code useful or relevant to your work please consider citing us.
+
+```
+D. Inoue, H. Yamashita, K. Aihara, and H. Yoshida, “AMPIC: Adaptive Model Predictive Ising Controller for large-scale urban traffic signals.” arXiv, Jun. 05, 2024. doi: 10.48550/arXiv.2406.03690.
+```
+
+In bibtex format:
+
+```
+@misc{ampic,
+Author = {Daisuke Inoue and Hiroshi Yamashita and Kazuyuki Aihara and Hiroaki Yoshida},
+Title = {AMPIC: Adaptive Model Predictive Ising Controller for large-scale urban traffic signals},
+Year = {2024},
+Eprint = {arXiv:2406.03690},
+}
+```
+
+## License
+
+
+This project is licensed under the [GPL2](https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html).
